@@ -1,0 +1,22 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Gracé"] = {
+			["Fights"] = {
+			},
+			["type"] = "Self",
+			["Name"] = "Gracé",
+			["UnitLockout"] = 4004.821,
+			["level"] = 91,
+			["Owner"] = false,
+			["enClass"] = "HUNTER",
+			["LastFightIn"] = 0,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

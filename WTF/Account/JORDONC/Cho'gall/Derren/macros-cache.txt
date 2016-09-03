@@ -1,0 +1,18 @@
+VER 3 0100000000000001 "Group leave" "INV_Misc_QuestionMark"
+/leave group
+END
+VER 3 0100000000000004 "Thrall" "INV_Misc_QuestionMark"
+END
+VER 3 0100000000000005 "Vent info!!!" "INV_Misc_QuestionMark"
+/2 -----------------------------------------------
+/2 ----------HOSTILE VENT INFO!--------
+/2 v15.darkstarllc.com    2529  RUBY
+/2 -----------------------------------------------
+END
+VER 3 0100000000000002 "Xbox 360" "INV_Misc_QuestionMark"
+/2 Why do they call it an Xbox 360?
+/2 Because you walk up to it. do a 360, and walk away.
+END
+VER 3 0100000000000003 "Xbox 360 ending" "INV_Misc_QuestionMark"
+/2 Because you walk up to it. do a 360, and walk away.
+END

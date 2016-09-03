@@ -1,0 +1,22 @@
+/Cache
+/Data
+/Errors
+/Logs
+/Screenshots
+/Utils
+.agent.db
+.patch.result
+.prdouct.db
+BlizzardError.exe
+dbghelp.dll
+DivxDecoder.dll
+Launcher.db
+Scan-64.dll
+.build.info
+.product.db
+World of Warcraft Launcher.exe
+Wow.exe
+WoW.mfil
+Wow-64.exe
+Interface/AddOns/Blizzard_*
+WTF/Config.wtf

@@ -1,0 +1,16 @@
+VER 3 0100000000000008 "GotW" "Spell_Nature_GiftoftheWild"
+/s Wow you kids suck with a 30% buff... Here have another one...
+/cast Gift of the Wild
+END
+VER 3 0100000000000009 "Rebirth" "Spell_Nature_Reincarnation"
+/cast Rebirth
+/s Clearly, %t hasn't learned how to get out of the fire yet.
+END
+VER 3 010000000000000A "Revive" "Ability_Druid_LunarGuidance"
+/cast Revive
+/s Now Ressurecting %t. Side effects include but arn't limited too: Vomiting, loss of limbs, dizzyness, And a craving for brains. Resserecting is not for everyone. Please consult your healer before accepting.
+END
+VER 3 0100000000000007 "Rockroll" "Ability_Creature_Cursed_05"
+/2 PST me for free gold!
+/dnd We're no strangers to love, you know the rules and so do I / A full commitment's what I'm thinking of, you wouldn't get this from any other guy...
+END

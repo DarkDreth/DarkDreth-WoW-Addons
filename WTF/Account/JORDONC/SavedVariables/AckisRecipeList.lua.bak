@@ -1,0 +1,19 @@
+
+ARLDB2 = {
+	["global"] = {
+		["tradeskill"] = {
+			["Cho'gall"] = {
+				["Gracé"] = {
+					["Jewelcrafting"] = "|cffffd000|Htrade:Player-101-068A5A6A:25230:755|h[Jewelcrafting]|h|r",
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Gracé - Cho'gall"] = "Gracé - Cho'gall",
+	},
+	["profiles"] = {
+		["Gracé - Cho'gall"] = {
+		},
+	},
+}

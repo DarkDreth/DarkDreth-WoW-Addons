@@ -1,0 +1,20 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Irikah - Cho'gall"] = "Irikah - Cho'gall",
+	},
+	["profiles"] = {
+		["Irikah - Cho'gall"] = {
+			["PositionW"] = 241.9998474121094,
+			["PositionH"] = 192.9999084472656,
+			["VGrip2"] = 139.149954727159,
+			["PositionY"] = 242.9999389648438,
+			["Shown"] = true,
+			["PositionX"] = 1678.000244140625,
+			["MinimapIcon"] = {
+				["minimapPos"] = 130.191982417645,
+			},
+			["VGrip1"] = 102.8499665374654,
+		},
+	},
+}

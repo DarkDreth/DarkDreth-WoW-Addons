@@ -1,0 +1,580 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Irikah"] = {
+			["GUID"] = "0x040000000437A3C4",
+			["LastEventHealth"] = {
+				"245868 (100%)", -- [1]
+				"245868 (100%)", -- [2]
+			},
+			["LastAttackedBy"] = "Snagtooth Virmen",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"HEAL", -- [2]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					3.5, -- [1]
+				},
+				["Overhealing"] = {
+					9010, -- [1]
+				},
+				["ActiveTime"] = {
+					3.5, -- [1]
+				},
+				["Healing"] = {
+					3283, -- [1]
+				},
+				["DamageTaken"] = {
+					3283, -- [1]
+				},
+				["HealingTaken"] = {
+					3283, -- [1]
+				},
+			},
+			["enClass"] = "DRUID",
+			["unit"] = "Irikah",
+			["level"] = 89,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 0,
+			["LastEventNum"] = {
+				1.335269331511217, -- [1]
+				4.999837311077489, -- [2]
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 1,
+			["LastAbility"] = 1174.397,
+			["LastDamageTaken"] = 3283,
+			["Owner"] = false,
+			["TimeLast"] = {
+				["TimeHeal"] = 1390454093,
+				["Overhealing"] = 1390454093,
+				["ActiveTime"] = 1390454093,
+				["HealingTaken"] = 1390454093,
+				["OVERALL"] = 1390454093,
+				["DamageTaken"] = 1390454089,
+				["Healing"] = 1390454093,
+			},
+			["NextEventNum"] = 3,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+			},
+			["LastEvents"] = {
+				"Snagtooth Virmen Melee Irikah Hit -3283 (Physical)", -- [1]
+				"Irikah Ysera's Gift Irikah Hit +12293 (9010 overheal)", -- [2]
+			},
+			["Name"] = "Irikah",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+			},
+			["LastEventTimes"] = {
+				1170.34, -- [1]
+				1174.397, -- [2]
+			},
+			["Fights"] = {
+				["Fight1"] = {
+					["TimeHealing"] = {
+						["Irikah"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["OverHeals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9010,
+									["min"] = 9010,
+									["count"] = 1,
+									["amount"] = 9010,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 9010,
+						},
+					},
+					["TimeSpent"] = {
+						["Irikah"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["DamageTaken"] = 3283,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 3.5,
+					["ElementTaken"] = {
+						["Melee"] = 3283,
+					},
+					["Heals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3283,
+									["min"] = 3283,
+									["count"] = 1,
+									["amount"] = 3283,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3283,
+						},
+					},
+					["Healing"] = 3283,
+					["HealingTaken"] = 3283,
+					["WhoHealed"] = {
+						["Irikah"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3283,
+								},
+							},
+							["amount"] = 3283,
+						},
+					},
+					["TimeHeal"] = 3.5,
+					["WhoDamaged"] = {
+						["Snagtooth Virmen"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3283,
+								},
+							},
+							["amount"] = 3283,
+						},
+					},
+					["Overhealing"] = 9010,
+					["HealedWho"] = {
+						["Irikah"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3283,
+								},
+							},
+							["amount"] = 3283,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+				},
+				["LastFightData"] = {
+					["TimeHealing"] = {
+						["Irikah"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["OverHeals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9010,
+									["min"] = 9010,
+									["count"] = 1,
+									["amount"] = 9010,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 9010,
+						},
+					},
+					["TimeSpent"] = {
+						["Irikah"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["DamageTaken"] = 3283,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 3.5,
+					["ElementTaken"] = {
+						["Melee"] = 3283,
+					},
+					["Heals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3283,
+									["min"] = 3283,
+									["count"] = 1,
+									["amount"] = 3283,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3283,
+						},
+					},
+					["Healing"] = 3283,
+					["HealingTaken"] = 3283,
+					["WhoHealed"] = {
+						["Irikah"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3283,
+								},
+							},
+							["amount"] = 3283,
+						},
+					},
+					["TimeHeal"] = 3.5,
+					["WhoDamaged"] = {
+						["Snagtooth Virmen"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3283,
+								},
+							},
+							["amount"] = 3283,
+						},
+					},
+					["Overhealing"] = 9010,
+					["HealedWho"] = {
+						["Irikah"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3283,
+								},
+							},
+							["amount"] = 3283,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Irikah"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["OverHeals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9010,
+									["min"] = 9010,
+									["count"] = 1,
+									["amount"] = 9010,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 9010,
+						},
+					},
+					["TimeSpent"] = {
+						["Irikah"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["DamageTaken"] = 3283,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 3.5,
+					["ElementTaken"] = {
+						["Melee"] = 3283,
+					},
+					["Heals"] = {
+						["Ysera's Gift"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3283,
+									["min"] = 3283,
+									["count"] = 1,
+									["amount"] = 3283,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3283,
+						},
+					},
+					["Healing"] = 3283,
+					["HealingTaken"] = 3283,
+					["WhoHealed"] = {
+						["Irikah"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3283,
+								},
+							},
+							["amount"] = 3283,
+						},
+					},
+					["TimeHeal"] = 3.5,
+					["WhoDamaged"] = {
+						["Snagtooth Virmen"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3283,
+								},
+							},
+							["amount"] = 3283,
+						},
+					},
+					["Overhealing"] = 9010,
+					["HealedWho"] = {
+						["Irikah"] = {
+							["Details"] = {
+								["Ysera's Gift"] = {
+									["count"] = 3283,
+								},
+							},
+							["amount"] = 3283,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1390454089,
+			["LastActive"] = 1390454093,
+		},
+	},
+	["FightNum"] = 1,
+	["CombatTimes"] = {
+		{
+			1390454089, -- [1]
+			1390454103, -- [2]
+			"00:14:50", -- [3]
+			"00:15:03", -- [4]
+			"Snagtooth Virmen", -- [5]
+		}, -- [1]
+	},
+	["FoughtWho"] = {
+		"Snagtooth Virmen 00:14:50-00:15:03", -- [1]
+	},
+}

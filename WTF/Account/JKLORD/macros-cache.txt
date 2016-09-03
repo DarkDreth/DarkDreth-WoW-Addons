@@ -1,0 +1,4 @@
+VER 3 0000000000000014 "Decursive" "1"
+/stopcasting
+/cast [@mouseover,nomod,exists] Cleanse;  [@mouseover,exists,mod:ctrl] Cleanse; [@mouseover,exists,mod:shift] Cleanse
+END

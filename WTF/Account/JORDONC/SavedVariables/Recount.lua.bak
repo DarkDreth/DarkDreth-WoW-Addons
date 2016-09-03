@@ -1,0 +1,35 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Irikah - Cho'gall"] = "Irikah - Cho'gall",
+	},
+	["profiles"] = {
+		["Irikah - Cho'gall"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -471.5000762939453,
+					["x"] = 710.5001831054688,
+					["w"] = 216.9998474121094,
+					["h"] = 205.0000457763672,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["MainWindowWidth"] = 216.9998474121094,
+			["MainWindowHeight"] = 205.0000457763672,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

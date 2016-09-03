@@ -1,0 +1,11 @@
+Dominos_Progress: enabled
+Dominos: enabled
+Dominos_ActionSets: enabled
+Dominos_Cast: enabled
+Dominos_Config: enabled
+Dominos_Encounter: enabled
+Dominos_Roll: enabled
+Dominos_XP: enabled
+GatherMate2: enabled
+Healers-Have-To-Die: enabled
+Recount: enabled

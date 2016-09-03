@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Gracé - Cho'gall"] = "Gracé - Cho'gall",
+	},
+	["profiles"] = {
+		["Gracé - Cho'gall"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Gracé - Cho'gall"] = "Gracé - Cho'gall",
+	},
+	["profiles"] = {
+		["Gracé - Cho'gall"] = {
+		},
+	},
+}

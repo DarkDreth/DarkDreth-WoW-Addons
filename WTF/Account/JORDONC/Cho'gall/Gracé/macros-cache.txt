@@ -1,0 +1,3 @@
+VER 3 0100000000000001 "arcane shot" "INV_MISC_QUESTIONMARK"
+/cast arcane shot
+END

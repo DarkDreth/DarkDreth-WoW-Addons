@@ -1,0 +1,11 @@
+tag 1.36.2
+eb7e0de97edbfa99f26484797902fb5acfd707e3
+Hendrik Leppkes <h.leppkes@gmail.com>
+2016-08-28 03:27:14 +0200
+
+Tag as 1.36.2
+
+
+--------------------
+
+No changelog

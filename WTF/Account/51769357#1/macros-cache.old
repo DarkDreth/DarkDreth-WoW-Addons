@@ -1,0 +1,12 @@
+VER 3 0000000000000002 "CrusaderStrike" "SPELL_HOLY_CRUSADERSTRIKE"
+/assist
+/cast  CrusaderStrike
+END
+VER 3 0000000000000001 "ffollow" "INV_MISC_QUESTIONMARK"
+/target  Kuuglarn
+/follow
+END
+VER 3 0000000000000003 "Judgement" "SPELL_HOLY_RIGHTEOUSFURY"
+/assist
+/cast  Judgement
+END

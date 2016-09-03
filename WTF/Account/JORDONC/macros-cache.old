@@ -1,0 +1,15 @@
+VER 3 0000000000000020 "1" "INV_Misc_QuestionMark"
+/cast [nostance:3] Moonkin Form; Wrath(Moonkin Form)
+END
+VER 3 0000000000000021 "2" "INV_Misc_QuestionMark"
+/cast [nostance:3] Moonkin Form; Starfire(Moonkin Form)
+END
+VER 3 0000000000000022 "3" "INV_Misc_QuestionMark"
+/cast [nostance:3] Moonkin Form; Moonfire(Moonkin Form)
+END
+VER 3 000000000000001F "Innervate Chub" "INV_Misc_QuestionMark"
+/cast [nostance:3] Moonkin Form; Starsurge(Moonkin Form)
+END
+VER 3 0000000000000009 "Raid Recruit" "INV_Misc_QuestionMark"
+/2 LFM BoT! Need 2 healers. Must know all fights up to Cho'gall! PST class/spec/acheve/ilvl. 
+END
